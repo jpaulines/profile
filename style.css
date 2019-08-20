@@ -17,10 +17,18 @@ h1 {
 
 h2 {
   font-size: 20px;
+  font-weight: 300;
 }
 
-h1,h2,h3 {
+h1, h2 {
   font-family: 'Montserrat', sans-serif;
+  color: #E3EDE8;
+}
+
+h3 {
+  color: #38544D;
+  font-size: 17px;
+  font-family: 'Open Sans', serif;
 }
 
 #btn-pink {
@@ -33,7 +41,7 @@ h1,h2,h3 {
   height: 10%;
   border: 0.5px solid #38544D;
   border-radius: 5px;
-  padding: 5px;
+  padding: 8px;
 }
 
 #btn-pink:hover {
@@ -70,7 +78,7 @@ h1,h2,h3 {
 }
 
 .list-inline i:hover {
-  color: #0c0b0b;
+  color: #ADF4D4;
 }
 
 #img-background {
